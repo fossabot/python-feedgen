@@ -1,6 +1,6 @@
 language: python
 
-sudo: false
+dist: bionic
 
 # https://devguide.python.org/#branchstatus
 python:
